@@ -1,0 +1,1 @@
+python ./src/purchase_analytics.py
